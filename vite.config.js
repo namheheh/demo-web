@@ -9,8 +9,6 @@ module.exports = defineConfig({
         main: resolve(__dirname, 'index.html'),
         detail: resolve(__dirname, 'detail.html'),
         product: resolve(__dirname, 'product.html'),
-
-        
       }
     }
   }
